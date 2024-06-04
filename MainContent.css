@@ -1,0 +1,19 @@
+.main-content {
+  padding: 20px;
+}
+
+.main-content section {
+  margin-bottom: 40px;
+}
+
+p{
+  color: aqua;
+}
+
+h2{
+  color: dodgerblue;
+}
+
+h4{
+  color: chartreuse;
+}
